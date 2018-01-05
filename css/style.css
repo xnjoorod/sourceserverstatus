@@ -1,0 +1,10 @@
+body {
+  background: url(http://forum.nortegaming.pt/public/style_images/ptts3/background.jpg) fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.statustitle {
+  padding-bottom: 15px;
+  border-bottom: 1px solid blue;
+}
