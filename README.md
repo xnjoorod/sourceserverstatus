@@ -28,3 +28,9 @@ The server format must be:
 ```
 
 Multiple servers can be set by separating arrays (defined by [ ]) with commas.
+
+Todo
+===
+- Add an installation system
+- Make it dynamic through SQL
+- Add more customization options
