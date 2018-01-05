@@ -1,6 +1,8 @@
 # Source Server Status
 This repository stands for server status made based off SourceQuery, dynamically defined by a JSON file that loads the IP addresses, the ports and the names defined for servers.
 
+Demo: http://www.drakz.pt/serverstatus
+
 Any code optimizations are welcome for it to get more complete.
 
 Credits
